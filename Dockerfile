@@ -6,4 +6,4 @@ WORDIR /home/aplicacion/prueba
 
 COPY prueba1.jar /home/aplicacion/prueba.jar (v2 copia del jar)
 
-CMD ["java -jar /home/aplicacion/prueba.jar"]
+CMD ["java -jar /home/aplicacion/prueba1.jar"]
