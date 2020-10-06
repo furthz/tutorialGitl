@@ -2,7 +2,7 @@ FROM openjdk:8-alpine (version original)
 
 MKDIR /home/applicacion (v1 carpeta creada)
 
-WORDIR /home/aplicacion/prueba
+WORDIR /home/aplicacion/prueba2
 
 COPY prueba1.jar /home/aplicacion/prueba.jar (v2 copia del jar)
 
